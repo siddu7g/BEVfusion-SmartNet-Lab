@@ -1,0 +1,1 @@
+python3 scripts/view_data.py   data=nuscenes   data.dataset_dir=/home/sidg/CoBEVT/media/datasets/nuscenes   data.labels_dir=/home/sidg/CoBEVT/media/datasets/cvt_labels_nuscenes_v2   data.version=v1.0-mini   visualization=nuscenes_viz   +split=val
