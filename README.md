@@ -28,8 +28,10 @@ Refer Credits (CoBEVT) for Dependency & Compatible Setup
 
 3. Inference
  ```bash
-   
 python3 scripts/view_data.py   data=nuscenes   data.dataset_dir=/CoBEVT/media/datasets/nuscenes   data.labels_dir=/CoBEVT/media/datasets/cvt_labels_nuscenes_v2   data.version=v1.0-mini   visualization=nuscenes_viz   +split=val
  ```
 
+4. Results
+
+![CoBEVT Sensor Fusion on NuScenes Dataset](results/sample_0057.png)
 
