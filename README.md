@@ -1,6 +1,6 @@
 ## Credits
 
-- Original Project: [CoBEVT GitHub](https://github.com/LeadingLab/CoBEVT)  
+- Original Project: [CoBEVT GitHub](https://github.com/DerrickXuNu/CoBEVT)  
 - Dataset: [NuScenes](https://www.nuscenes.org/)
 
 ## Setup
